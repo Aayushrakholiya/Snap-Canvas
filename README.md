@@ -13,6 +13,8 @@ p5.js · JavaScript · Creative Coding
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Webcam](https://img.shields.io/badge/Webcam_RTC-blue?style=flat-square)
 
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-snapcanvas--five.vercel.app-6E45E2?style=for-the-badge&labelColor=1a1a2e)](https://snapcanvas-five.vercel.app/)
+
 </div>
 
 ---
@@ -70,6 +72,8 @@ python3 -m http.server 8000
 ```
 
 3. Allow camera access, and start snapping 📸
+
+**Or skip all that — it's already live: [snapcanvas-five.vercel.app](https://snapcanvas-five.vercel.app/)**
 
 ---
 
